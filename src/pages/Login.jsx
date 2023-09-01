@@ -15,7 +15,7 @@ const Login = () => {
     
     try {
       await signInWithEmailAndPassword(auth, email, password);
-      navigate("/")
+      navigate("Home")
     } catch (err) {
       setErr(true);
     }
@@ -38,4 +38,4 @@ const Login = () => {
   )
 }
 
-export default Login
+export default Login;

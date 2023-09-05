@@ -33,7 +33,7 @@
     gap: 10px;
 
     .logo {
-      color: blueviolet;
+      color: rgb(150, 50, 245);
       font-weight: bold;
       font-size: 24px;   
     }
@@ -61,7 +61,7 @@
 
       button {
         border: none;
-        background-color: darkslateblue;
+        background-color: rgb(92, 79, 176);
         padding: 10px;
         border-radius: 10px;
         color: #ffff;
@@ -73,7 +73,7 @@
         display: flex;
         align-items: center;
         gap: 12px;
-        color: #8da4f1;
+        color: #809dfa;
         font-size: 12px;
         cursor: pointer;
 
@@ -83,7 +83,7 @@
       }
     }
     p {
-      color: blue;
+      color: rgb(21, 21, 255);
       font-size: 12px;
       margin-top: 10px;
     }
@@ -97,7 +97,7 @@
   align-items: center;
   justify-content: center;
   .container {
-    border: 1px solid rgb(253, 253, 253);
+    border: 1px solid rgb(251, 237, 237);
     border-radius: 5px;
     width: 70%;
     height: 80%;
@@ -109,7 +109,7 @@
 
     .sidebar {
       flex: 1;
-      background-color: rgb(179, 105, 232);
+      background-color: rgb(177, 99, 232);
       position: relative;
 
       .navbar {

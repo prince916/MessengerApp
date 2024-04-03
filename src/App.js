@@ -22,7 +22,7 @@ function App() {
       return <Navigate to="/Login" />;
     }
 
-    return children
+    return children;
   };
   return (
     <BrowserRouter>

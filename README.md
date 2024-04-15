@@ -1,6 +1,6 @@
 # Getting Started with Create React App................
 
-# Encryption Decoder included
+# Encryption Decoder included..............
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
